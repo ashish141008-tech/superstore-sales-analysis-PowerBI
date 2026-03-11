@@ -79,9 +79,13 @@ Helps analyze how sales change over time and detect seasonal trends or patterns.
 From the analysis, several important insights can be observed:
 
 a. The Technology category contributes the highest sales revenue.
+
 b. Some sub-categories such as Tables generate negative profit, indicating potential cost or pricing issues.
+
 c. The West region shows strong sales performance compared to other regions.
+
 d. Sales show fluctuations over time, indicating possible seasonal trends.
+
 e. These insights help businesses improve decision-making, optimize product strategy, and increase profitability.
 
 9.Dashboard Preview
