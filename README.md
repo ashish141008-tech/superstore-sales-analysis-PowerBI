@@ -60,29 +60,29 @@ Track sales trends over time
 
 7.Key Visualizations & Why They Are Used
 
-1. KPI Cards (Total Sales, Total Profit)
+a. KPI Cards (Total Sales, Total Profit)
 Used to quickly display important business metrics and provide a high-level summary of performance.
 
-2. Sales by Category (Bar Chart)
+b. Sales by Category (Bar Chart)
 Helps compare sales performance across product categories and identify which category generates the most revenue.
 
-3. Profit by Sub-Category (Bar Chart)
+c. Profit by Sub-Category (Bar Chart)
 Used to identify profitable and loss-making products so the business can adjust pricing or strategy.
 
-4. Sales by Region (Map / Bar Chart)
+d. Sales by Region (Map / Bar Chart)
 Shows geographic distribution of sales to understand which regions perform better.
 
-5. Sales Trend Over Time (Line Chart)
+e. Sales Trend Over Time (Line Chart)
 Helps analyze how sales change over time and detect seasonal trends or patterns.
 
 8.Insights Derived from the Dashboard
 From the analysis, several important insights can be observed:
 
-The Technology category contributes the highest sales revenue.
-Some sub-categories such as Tables generate negative profit, indicating potential cost or pricing issues.
-The West region shows strong sales performance compared to other regions.
-Sales show fluctuations over time, indicating possible seasonal trends.
-These insights help businesses improve decision-making, optimize product strategy, and increase profitability.
+a. The Technology category contributes the highest sales revenue.
+b. Some sub-categories such as Tables generate negative profit, indicating potential cost or pricing issues.
+c. The West region shows strong sales performance compared to other regions.
+d. Sales show fluctuations over time, indicating possible seasonal trends.
+e. These insights help businesses improve decision-making, optimize product strategy, and increase profitability.
 
 9.Dashboard Preview
 https://github.com/ashish141008-tech/superstore-sales-analysis-PowerBI/blob/main/Superstore_Sales_Analysis.png
