@@ -78,6 +78,9 @@ Helps analyze how sales change over time and detect seasonal trends or patterns.
 8.Insights Derived from the Dashboard
 From the analysis, several important insights can be observed:
 
+9.Dashboard Preview
+
+
 The Technology category contributes the highest sales revenue.
 Some sub-categories such as Tables generate negative profit, indicating potential cost or pricing issues.
 The West region shows strong sales performance compared to other regions.
