@@ -31,7 +31,7 @@ The goal is to identify sales trends, evaluate profitability, detect loss-making
 
 The following tools and technologies were used:
 
-* **Python** (Pandas, NumPy, Matplotlib, Seaborn) – Data cleaning & analysis
+* **Python** (Pandas, Matplotlib, Seaborn) – Data cleaning & analysis
 * **Power BI** – Dashboard creation & visualization
 * **Power Query** – Data transformation
 * **DAX (Data Analysis Expressions)** – KPI calculations
