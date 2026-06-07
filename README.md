@@ -205,7 +205,7 @@ The goal of this project is to:
 
 # 🖼️ 9. **Dashboard Preview**
 
-![Dashboard](https://github.com/ashish141008-tech/superstore-sales-analysis-PowerBI/blob/main/Superstore_Sales_Analysis.png)
+![Dashboard]([https://github.com/ashish141008-tech/superstore-sales-analysis-PowerBI/blob/main/Superstore_Sales_Analysis.png](https://github.com/ashish141008-tech/superstore-sales-analysis-PowerBI/blob/main/Supersales_Sales_Analysis.png)
 
 ---
 
